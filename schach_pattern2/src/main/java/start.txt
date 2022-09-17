@@ -1,0 +1,8 @@
+TB|SB|LB|DB|KB|LB|SB|TB
+BB|BB|BB|BB|BB|BB|BB|BB
+__|__|__|__|__|__|__|__
+__|__|__|__|__|__|__|__
+__|__|__|__|__|__|__|__
+__|__|__|__|__|__|__|__
+BW|BW|BW|BW|BW|BW|BW|BW
+TW|SW|LW|DW|KW|LW|SW|TW
